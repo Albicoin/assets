@@ -1,0 +1,11 @@
+{
+    "name": "Albicoin",
+    "symbol": "ALBC",
+    "type": "TRC10",
+    "decimals": 3,
+    "description": "Albicoin is a peer-to-peer Internet currency that enables instant, near-zero cost payments to anyone in the world. Albicoin is open source.",
+    "website": "http://www.albicoin.com",
+    "explorer": "https://tronscan.org/#/token/1004149",
+    "status": "active",
+    "id": "1004149"
+} 
