@@ -1,0 +1,11 @@
+{
+    "name": "Albicoin",
+    "symbol": "ALBC",
+    "type": "TRC10",
+    "decimals": 0,
+    "description": "A token produced to receive special services from a crypto investment website .",
+    "website": "http://albicoin.com/",
+    "explorer": "https://tronscan.io/#/token/1004149",
+    "status": "active",
+    "id": "1004149"
+}
