@@ -1,0 +1,11 @@
+{
+    "name": "Albicoin",
+    "symbol": "ALBC",
+    "type": "TRC10",
+    "decimals": 3,
+    "description": "-",
+    "website": "",
+    "explorer": "https://tronscan.io/#/token/1004149",
+    "status": "spam",
+    "id": "1004149"
+}
